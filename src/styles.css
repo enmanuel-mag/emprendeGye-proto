@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.ide-bg-blue {
+  background-color: #21BBF3;
+  border-color: #21BBF3;
+}
+
+.ide-bg-purple {
+  background-color: #16244b ;
+  border-color: #16244b;
+}
+
+.ide-text-purple{
+  color: #16244b;
+}
+
+.ide-text-blue{
+  color: #21BBF3;
+}
